@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SQLit3TestActivity!</string>
+    <string name="app_name">SQLit3Test</string>
+	
+    
+    <string name="createTable">创建表</string>
+    <string name="dropTable">删除表</string>
+    <string name="insertItem">插入数据</string>
+    <string name="deleteItem">删除数据</string>
+    <string name="updateItem">更新数据</string>
+    
+</resources>
